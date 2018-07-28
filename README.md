@@ -1,9 +1,10 @@
 # 69xxxioi.github.io
-个人博客\n\r
-hello world!
+个人博客
+
 <html>
   <head>
   </head>
   <body>
+    hello world!
   </body>
 </html>
