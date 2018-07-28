@@ -1,6 +1,3 @@
 # 69xxxioi.github.io
 个人博客
-*测试用
-*学习中。。。
-*很有爱
-*哇哦！！！！！！
++fdasf asf a
