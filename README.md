@@ -5,6 +5,7 @@
   <head>
   </head>
   <body>
-    <b>hello world!
+    <b/>hello world!
+    <hr/>
   </body>
 </html>
